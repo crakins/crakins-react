@@ -1,0 +1,7 @@
+.Logo {
+    background-image: url(./crakinscom_yellow.png);
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
