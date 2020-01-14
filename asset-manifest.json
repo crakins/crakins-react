@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/crakins-react/static/css/main.cdbb0680.chunk.css",
+    "main.css": "/crakins-react/static/css/main.6ebc3f6d.chunk.css",
     "main.js": "/crakins-react/static/js/main.75d16531.chunk.js",
     "main.js.map": "/crakins-react/static/js/main.75d16531.chunk.js.map",
     "runtime-main.js": "/crakins-react/static/js/runtime-main.afaf2da5.js",
@@ -8,16 +8,16 @@
     "static/js/2.91ec6be5.chunk.js": "/crakins-react/static/js/2.91ec6be5.chunk.js",
     "static/js/2.91ec6be5.chunk.js.map": "/crakins-react/static/js/2.91ec6be5.chunk.js.map",
     "index.html": "/crakins-react/index.html",
-    "precache-manifest.b95d14c5214f85735b11994f11ab644f.js": "/crakins-react/precache-manifest.b95d14c5214f85735b11994f11ab644f.js",
+    "precache-manifest.98696516c51a2d5f4a4e9a9049468c78.js": "/crakins-react/precache-manifest.98696516c51a2d5f4a4e9a9049468c78.js",
     "service-worker.js": "/crakins-react/service-worker.js",
-    "static/css/main.cdbb0680.chunk.css.map": "/crakins-react/static/css/main.cdbb0680.chunk.css.map",
+    "static/css/main.6ebc3f6d.chunk.css.map": "/crakins-react/static/css/main.6ebc3f6d.chunk.css.map",
     "static/js/2.91ec6be5.chunk.js.LICENSE": "/crakins-react/static/js/2.91ec6be5.chunk.js.LICENSE",
     "static/media/logo.styles.scss": "/crakins-react/static/media/crakinscom_yellow.9abdbae2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.afaf2da5.js",
     "static/js/2.91ec6be5.chunk.js",
-    "static/css/main.cdbb0680.chunk.css",
+    "static/css/main.6ebc3f6d.chunk.css",
     "static/js/main.75d16531.chunk.js"
   ]
 }

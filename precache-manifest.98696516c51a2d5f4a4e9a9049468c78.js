@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f98435fb8b9c81fda38bc733e67aa78",
+    "revision": "c1701a161ed6d179c697cb519f5d415f",
     "url": "/crakins-react/index.html"
   },
   {
-    "revision": "9fa49318c65cbea94109",
-    "url": "/crakins-react/static/css/main.cdbb0680.chunk.css"
+    "revision": "7dd08b933fef56cd0811",
+    "url": "/crakins-react/static/css/main.6ebc3f6d.chunk.css"
   },
   {
     "revision": "1175d53dc9b454e52967",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crakins-react/static/js/2.91ec6be5.chunk.js.LICENSE"
   },
   {
-    "revision": "9fa49318c65cbea94109",
+    "revision": "7dd08b933fef56cd0811",
     "url": "/crakins-react/static/js/main.75d16531.chunk.js"
   },
   {
