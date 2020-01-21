@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "crakins-react",
+    "dev": "crakins-react"
+  }
+}

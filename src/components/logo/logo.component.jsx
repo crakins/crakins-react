@@ -1,7 +1,7 @@
 import React from 'react';
-import './logo.styles.css';
+import './logo.styles.scss';
 
 export const Logo = () => (
-    <div className="image-swap" />
+    <div className="crakins_image" />
     
 );

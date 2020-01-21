@@ -1,0 +1,19 @@
+.crakins_image {
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    height: 240px;
+    width: 680px;
+	background: url(../../assets/crakinscom.png);
+    background-repeat: no-repeat;
+
+
+    &:hover {
+        cursor: pointer;
+        background:url(../../assets/crakinscom_yellow.png);
+        transform: scale(1.1);
+        transition: transform 0.5s
+
+       
+    }
+}
