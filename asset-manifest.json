@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.748fc8b8.chunk.css",
+    "main.js": "/static/js/main.de51640d.chunk.js",
+    "main.js.map": "/static/js/main.de51640d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.936904ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.936904ca.js.map",
+    "static/js/2.91ec6be5.chunk.js": "/static/js/2.91ec6be5.chunk.js",
+    "static/js/2.91ec6be5.chunk.js.map": "/static/js/2.91ec6be5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a028e7ad5ee4ae06d39ea91b3e50f8ec.js": "/precache-manifest.a028e7ad5ee4ae06d39ea91b3e50f8ec.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.748fc8b8.chunk.css.map": "/static/css/main.748fc8b8.chunk.css.map",
+    "static/js/2.91ec6be5.chunk.js.LICENSE": "/static/js/2.91ec6be5.chunk.js.LICENSE",
+    "static/media/logo.styles.scss": "/static/media/crakinscom_yellow.9abdbae2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.936904ca.js",
+    "static/js/2.91ec6be5.chunk.js",
+    "static/css/main.748fc8b8.chunk.css",
+    "static/js/main.de51640d.chunk.js"
+  ]
+}
